@@ -1,6 +1,6 @@
 <h1 align="center">Calculadora IMC</h1>
 
-- Desenvolvi uma calculadora que te fala se você esta com o peso idela, acima do peso ou até mesmo abaixo do peso 
+- Desenvolvi uma calculadora que te fala se você esta com o peso ideal, acima do peso ou até mesmo abaixo do peso.
 
 <p align="center">
 <img src="img/calculadora.png">
